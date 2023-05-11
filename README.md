@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Front End
-- 📫 How to reach me: barbarahagi3@icloud.com
+- 📫 How to reach me: contatobarbarahaggi@gmail.com
 - ⚡ Fun fact: I learned english and code by myself!
 
 <div>
