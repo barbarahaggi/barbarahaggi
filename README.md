@@ -1,9 +1,9 @@
 ### Hi there! I'm Barbara Haggi 👋
 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Front End
-- 📫 How to reach me: contatobarbarahaggi@gmail.com
-- ⚡ Fun fact: I learned english and code by myself!
+- 🌱 Estou aprendendo Javat
+- 👯 Estou aberta a novas oportunidades.
+- 📫 Como me contatar: contatobarbarahaggi@gmail.com
+- ⚡ Fato curioso sobre mim: aprendi inglês e programação de forma auto didata.
 
 <div>
   <a href="https://github.com/barbarahaggi">
