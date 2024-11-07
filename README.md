@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo Java
 - 👯 Estou aberta a novas oportunidades.
 - 📫 Como me contatar: contatobarbarahaggi@gmail.com
-- ⚡ Fato curioso sobre mim: aprendi inglês e programação de forma auto didata.
+- ⚡ Fato curioso sobre mim: aprendi inglês de forma auto didata.
 
 <div>
   <a href="https://github.com/barbarahaggi">
