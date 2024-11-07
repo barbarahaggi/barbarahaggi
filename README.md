@@ -22,8 +22,8 @@
   ##
   
    <div> 
-      <a href="https://instagram.com/barbarahaggi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">www.instagram.com/barbarahaggi</a>
-     <a href="https://www.linkedin.com/in/barbara-haggi-713099247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">https://www.linkedin.com/in/barbara-oliveira-desenvolvedora/</a>
+      <a href="https://instagram.com/barbarahaggi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="[https://www.linkedin.com/in/barbara-haggi-713099247/](https://www.linkedin.com/in/barbara-oliveira-desenvolvedora/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
   ##
