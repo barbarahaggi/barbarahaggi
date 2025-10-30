@@ -1,9 +1,6 @@
 ### Hi there! I'm Barbara Haggi 👋
 
-- 🌱 Estou aprendendo Java
-- 👯 Estou aberta a novas oportunidades.
-- 📫 Como me contatar: contatobarbarahaggi@gmail.com
-- ⚡ Fato curioso sobre mim: aprendi inglês de forma auto didata.
+- 📫 How to contact me: contatobarbarahaggi@gmail.com
 
 <div>
   <a href="https://github.com/barbarahaggi">
